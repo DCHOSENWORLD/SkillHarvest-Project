@@ -41,14 +41,9 @@ The "Nigeria Inventory Sales" project aims to provide insights into sales perfor
    - Online Retail Platforms: Data from e-commerce platforms like Jumia and Konga, which offer consumer behavior insights and sales trends. For example, trends in popular products or regional sales performance.
 
 ### Data Collection Methodology
-
-- **Data Cleaning**:
-  - The dataset underwent a cleaning process to remove duplicates and correct inaccuracies. Missing values were addressed by [explain your approach, e.g., filling with averages, removing rows, etc.].
-
 - **Data Transformation**:
   - The data was transformed to facilitate analysis, including:
-    - Aggregating sales data by month to observe trends over time.
-    - Categorizing products into groups (e.g., electronics, clothing) for better comparative analysis.
+    - Categorizing products into groups 
     - Normalizing sales data by region to identify regional performance variations.
 
 ### Tools Used
