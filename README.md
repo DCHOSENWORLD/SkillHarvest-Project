@@ -1,9 +1,7 @@
-# SkillHarvest-Project  
-
-##  Nigeria Inventory Sales
+#  Nigeria Inventory Sales
 
 ### Project Overview
-The "Nigeria Inventory Sales" project aims to provide insights into sales performance, inventory management, and market trends within the Nigerian context. Here are some potential insights you could derive from your analysis:
+The "Nigeria Inventory Sales" project aims to provide insights into sales performance, inventory management, and market trends within the Nigerian context.
 
 ### Key Insights
 
@@ -19,4 +17,41 @@ The "Nigeria Inventory Sales" project aims to provide insights into sales perfor
 4. Sales by Region:
    - Examine how sales differ across various regions in Nigeria. This can help identify potential markets for expansion or targeted marketing efforts.
 
-The project aim to enhance decision-making for businesses by providing a clearer understanding of sales dynamics, inventory management, and regional market trends. By leveraging these insights, businesses can optimize operations, improve customer satisfaction, and ultimately drive growth in specific markets.
+### Data Sources
+
+1. Primary Dataset:
+   - File Name: `inventory_sales_data.xlsx`
+   - Description: This Excel file contains the core dataset for the Nigeria Inventory Sales analysis. It includes:
+     - Sales Records: 
+       - Transaction Date: The date when the sale occurred.
+       - Product ID: Unique identifier for each product.
+       - Product Name: The name of the product sold.
+       - Quantity Sold: The number of units sold in each transaction.
+       - Sales Amount: The total revenue generated from each sale.
+       - Structure: The data is organized in tabular format, with columns representing different attributes. Each row corresponds to a specific sale transaction.
+
+2. Additional Data Sources:
+   - File Name: `additional_data_sources.csv`
+   - Description: This file includes supplementary data that enhances the analysis, such as:
+     - Market Demographics: 
+       - Region: Geographic regions of Nigeria (e.g., North, South, East, West).
+
+3. Publicly Available Data:
+   - Nigerian Bureau of Statistics: Data on national economic indicators, population demographics, and other relevant statistics can be accessed [here](https://www.nigerianstat.gov.ng).
+   - Online Retail Platforms: Data from e-commerce platforms like Jumia and Konga, which offer consumer behavior insights and sales trends. For example, trends in popular products or regional sales performance.
+
+### Data Collection Methodology
+
+- **Data Cleaning**:
+  - The dataset underwent a cleaning process to remove duplicates and correct inaccuracies. Missing values were addressed by [explain your approach, e.g., filling with averages, removing rows, etc.].
+
+- **Data Transformation**:
+  - The data was transformed to facilitate analysis, including:
+    - Aggregating sales data by month to observe trends over time.
+    - Categorizing products into groups (e.g., electronics, clothing) for better comparative analysis.
+    - Normalizing sales data by region to identify regional performance variations.
+
+### Tools Used
+ **Microsoft Excel** was the primary tool for data analysis, leveraging its functions for data cleaning, pivot tables for summarization, and various charts for visualization. Key formulas were used to calculate metrics like total sales and inventory turnover, while conditional formatting highlighted significant trends.
+
+**Power BI** for advanced visual analytics. Supplementary data was sourced from online resources, such as the Nigerian Bureau of Statistics.
