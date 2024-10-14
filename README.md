@@ -1,20 +1,17 @@
 #  Nigeria Inventory Sales
 
 ### Project Overview
-The "Nigeria Inventory Sales" project aims to provide insights into sales performance, inventory management, and market trends within the Nigerian context.
+The "Nigeria Inventory Sales" project aims to provide insights into sales performance, reveneu  generation within the Nigerian context.
 
 ### Key Insights
 
 1. Sales Performance Trends:
-   - Analyze monthly or quarterly sales data to identify peak sales periods. This can help understand seasonal demand patterns and adjust inventory accordingly.
-
-2. Inventory Turnover:
-   - Assess how quickly inventory is sold and replaced. A high turnover rate may indicate strong sales performance, while a low rate could suggest overstocking or weak demand.
+   - Monthly revenue data to identify peak income periods.
 
 3. Product Performance:
-   - Identify which products are top performers and which ones are lagging. This helps in making informed decisions about restocking, discontinuing, or promoting specific items.
+   - Products with top performers and which ones are lagging.
 
-4. Sales by Region:
+4. Revenue by Region:
    - Examine how sales differ across various regions in Nigeria. This can help identify potential markets for expansion or targeted marketing efforts.
 
 ### Data Sources
@@ -28,13 +25,11 @@ The "Nigeria Inventory Sales" project aims to provide insights into sales perfor
        - Product Name: The name of the product sold.
        - Quantity Sold: The number of units sold in each transaction.
        - Sales Amount: The total revenue generated from each sale.
-       - Structure: The data is organized in tabular format, with columns representing different attributes. Each row corresponds to a specific sale transaction.
 
 2. Additional Data Sources:
    - File Name: `additional_data_sources.csv`
    - Description: This file includes supplementary data that enhances the analysis, such as:
-     - Market Demographics: 
-       - Region: Geographic regions of Nigeria (e.g., North, South, East, West).
+     - Market Demographics,Geographic regions of Nigeria (e.g., North, South, East, West).
 
 3. Publicly Available Data:
    - Nigerian Bureau of Statistics: Data on national economic indicators, population demographics, and other relevant statistics can be accessed [here](https://www.nigerianstat.gov.ng).
