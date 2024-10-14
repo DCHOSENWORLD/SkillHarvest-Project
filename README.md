@@ -1,47 +1,50 @@
-#  Nigeria Inventory Sales
+# SkillHarvest Inventory Sales
 
 ### Project Overview
-The "Nigeria Inventory Sales" project aims to provide insights into sales performance, reveneu  generation within the Nigerian context.
 
-### Key Insights
+This project focuses on analyzing inventory sales data for SkillHarvest, with the objective of uncovering insights into revenue generation across various regions and markets. The analysis includes steps such as data cleaning, transformation, pivoting, and visualization to highlight trends in regional sales performance and revenue growth.
 
-1. Sales Performance Trends:
-   - Monthly revenue data to identify peak income periods.
+### Key Objectives
 
-3. Product Performance:
-   - Products with top performers and which ones are lagging.
+- Revenue distribution by regions
+- Top-performing regions and markets
+- Highest revenue-generating areas
 
-4. Revenue by Region:
-   - Examine how sales differ across various regions in Nigeria. This can help identify potential markets for expansion or targeted marketing efforts.
+### Process Overview
 
-### Data Sources
+1. Data Cleaning:  
+   The raw dataset was examined for any missing or inaccurate values. Duplicates were removed, and inconsistencies in data formatting were corrected to ensure data quality.
 
-1. Primary Dataset:
-   - File Name: `inventory_sales_data.xlsx`
-   - Description: This Excel file contains the core dataset for the Nigeria Inventory Sales analysis. It includes:
-     - Sales Records: 
-       - Transaction Date: The date when the sale occurred.
-       - Product ID: Unique identifier for each product.
-       - Product Name: The name of the product sold.
-       - Quantity Sold: The number of units sold in each transaction.
-       - Sales Amount: The total revenue generated from each sale.
+2. Data Transformation:  
+   After cleaning, the data was transformed for deeper analysis. This included creating new columns, such as total revenue per region and market. This transformation step helped in structuring the data for visualization and deeper insights.
 
-2. Additional Data Sources:
-   - File Name: `additional_data_sources.csv`
-   - Description: This file includes supplementary data that enhances the analysis, such as:
-     - Market Demographics,Geographic regions of Nigeria (e.g., North, South, East, West).
+3. Pivoting:  
+   Pivot tables were used to summarize data across multiple dimensions like regions and markets. The aim was to display aggregated revenue values that could be filtered by region and market performance, helping identify key trends and patterns.
 
-3. Publicly Available Data:
-   - Nigerian Bureau of Statistics: Data on national economic indicators, population demographics, and other relevant statistics can be accessed [here](https://www.nigerianstat.gov.ng).
-   - Online Retail Platforms: Data from e-commerce platforms like Jumia and Konga, which offer consumer behavior insights and sales trends. For example, trends in popular products or regional sales performance.
+4. Visualization:  
+   Various visualizations were created
+   - Revenue by Region: A bar chart showing revenue distribution across all regions.
+   - Top Revenue Generation by Markets: A ranking of the top markets based on total sales revenue.
+     
+### Data Source
 
-### Data Collection Methodology
-- **Data Transformation**:
-  - The data was transformed to facilitate analysis, including:
-    - Categorizing products into groups 
-    - Normalizing sales data by region to identify regional performance variations.
+The data used in this project was sourced from **Skill Harvest's internal sales database**, which contains detailed records of inventory sales across multiple regions and markets. The dataset includes information on:
+- Regional sales performance.
+- Market-specific sales data.
+- Time-stamped sales transactions.
 
-### Tools Used
- **Microsoft Excel** was the primary tool for data analysis, leveraging its functions for data cleaning, pivot tables for summarization, and various charts for visualization. Key formulas were used to calculate metrics like total sales and inventory turnover, while conditional formatting highlighted significant trends.
+### Tools & Technologies Used
 
-**Power BI** for advanced visual analytics. Supplementary data was sourced from online resources, such as the Nigerian Bureau of Statistics.
+- Excel: For initial data review and pivot table creation.
+- GoogleSheets 
+
+### Insights
+
+The analysis revealed several key insights:
+- The **Northern Region** consistently outperformed other regions in terms of revenue, accounting for approximately 40% of total sales.
+- The **Tech Market** in the Western Region emerged as the highest revenue generator across all regions.
+
+### Conclusion
+
+This project offers a comprehensive view of Skill Harvest's inventory sales, providing clear insights into revenue generation by region and market. These findings can be leveraged for strategic planning, including targeted marketing efforts and resource allocation.
+
