@@ -7,6 +7,8 @@
 ## [Data Source](#data-source)
 ## [Tools Used](#tools-used)
 ## [Expository Data Analysis](#expository-data-analysis)
+## [Visualisation](#visualisation)
+## [Conclusion](#conclusion)
 
 
 ### Project Overview
@@ -56,6 +58,18 @@ The analysis revealed several key insights:
 - Bottom Five Stores Unit Sold
 - Report of Revenue Monthly
 
+### Visualisation
+![REGION](https://github.com/user-attachments/assets/34f84277-36b7-47a9-9534-683f8c400b19)
+
+![Annotation 2024-10-14 200049](https://github.com/user-attachments/assets/94547fb5-ea74-42da-b11e-7887b36a32e1)
+
+![Annotation 2024-10-14 200135](https://github.com/user-attachments/assets/09dd35e9-a79c-4855-b385-f03acc3db516)
+
+![Annotation 2024-10-14 195952](https://github.com/user-attachments/assets/5f359bc7-341a-4546-b1a2-e773b0dd18f9)
+
+![Annotation 2024-10-14 195840](https://github.com/user-attachments/assets/bb6201be-7d39-4f6a-87a5-a92fa1df436a)
+
+  
 ### Conclusion
 
 This project offers a comprehensive view of Skill Harvest's inventory sales, providing clear insights into revenue generation by region and market. These findings can be leveraged for strategic planning, including targeted marketing efforts and resource allocation.
