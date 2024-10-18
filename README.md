@@ -35,14 +35,17 @@ The data used in this project was sourced from **Skill Harvest's internal sales 
 
 ### Tools & Technologies Used
 
-- Excel: For initial data review and pivot table creation.
+- Excel: For initial data review and pivot table creation. {Download here https://microsoft.com }
 - GoogleSheets 
 
-### Insights
+### Insights Expository Data Analysis
 
 The analysis revealed several key insights:
-- The **Northern Region** consistently outperformed other regions in terms of revenue, accounting for approximately 40% of total sales.
-- The **Tech Market** in the Western Region emerged as the highest revenue generator across all regions.
+- Top Five Market by Revenue
+- Top Ten Stores by Revenue
+- Total Revenue by Region
+- Bottom Five Stores Unit Sold
+- Report of Revenue Monthly
 
 ### Conclusion
 
