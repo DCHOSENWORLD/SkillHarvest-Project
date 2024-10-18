@@ -1,5 +1,14 @@
 # SkillHarvest Inventory Sales
 
+## Table Of Outline
+## [Project Overview].(#project-overview).
+## [Key Objectives].(#key-objectives).
+## Process Overview
+## Data Source
+## Tools & Technologies Used
+## Expository Data Analysis
+
+
 ### Project Overview
 
 This project focuses on analyzing inventory sales data for SkillHarvest, with the objective of uncovering insights into revenue generation across various regions and markets. The analysis includes steps such as data cleaning, transformation, pivoting, and visualization to highlight trends in regional sales performance and revenue growth.
@@ -38,7 +47,7 @@ The data used in this project was sourced from **Skill Harvest's internal sales 
 - Excel: For initial data review and pivot table creation. {Download here https://microsoft.com }
 - GoogleSheets 
 
-### Insights Expository Data Analysis
+### Expository Data Analysis
 
 The analysis revealed several key insights:
 - Top Five Market by Revenue
