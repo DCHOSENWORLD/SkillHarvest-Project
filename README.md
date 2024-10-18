@@ -3,10 +3,10 @@
 ## Table Of Outline
 ## [Project Overview](#project-overview)
 ## [Key Objectives](#key-objectives)
-## [Process Overview](process-overview)
-## [Data Source](data-source)
-## [Tools & Technologies Used](tools-&-technologies-used)
-## [Expository Data Analysis](expository-data-analysis)
+## [Process Overview](#process-overview)
+## [Data Source](#data-source)
+## [Tools Used](#tools-used)
+## [Expository Data Analysis](#expository-data-analysis)
 
 
 ### Project Overview
@@ -42,7 +42,7 @@ The data used in this project was sourced from **Skill Harvest's internal sales 
 - Market-specific sales data.
 - Time-stamped sales transactions.
 
-### Tools & Technologies Used
+### Tools Used
 
 - Excel: For initial data review and pivot table creation. {Download here https://microsoft.com }
 - GoogleSheets 
