@@ -3,10 +3,10 @@
 ## Table Of Outline
 ## [Project Overview](#project-overview)
 ## [Key Objectives](#key-objectives)
-## Process Overview
-## Data Source
-## Tools & Technologies Used
-## Expository Data Analysis
+## [Process Overview](process-overview)
+## [Data Source](data-source)
+## [Tools & Technologies Used](tools-&-technologies-used)
+## [Expository Data Analysis](expository-data-analysis)
 
 
 ### Project Overview
