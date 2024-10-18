@@ -1,8 +1,8 @@
 # SkillHarvest Inventory Sales
 
 ## Table Of Outline
-## [Project Overview].(#project-overview).
-## [Key Objectives].(#key-objectives).
+## [Project Overview](#project-overview)
+## [Key Objectives](#key-objectives)
 ## Process Overview
 ## Data Source
 ## Tools & Technologies Used
